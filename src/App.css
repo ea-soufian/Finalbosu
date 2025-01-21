@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.popup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 1s ease-in-out;
+}
+
+.chatbox {
+  background: white;
+  color: black;
+  padding: 15px 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  text-align: left;
+  font-size: 18px;
+  max-width: 500px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.character-image {
+  width: 400px;
+  height: auto;
+  z-index: 10;
+  margin-bottom: 20px;
+}
+
+.popup-button {
+  margin-top: 15px;
+  padding: 12px 20px;
+  font-size: 18px;
+  border: none;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.popup-button:hover {
+  background: #0056b3;
+}
+
+.back-button {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background: #333;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.back-button:hover {
+  opacity: 1;
+  background: #555;
+}
+.next-button:hover {
+  background-color: #0056b3;
+}
+
+.character-dialog {
+  font-size: 14px;
+  text-align: center;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
