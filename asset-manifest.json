@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ea-soufian/Finalbosu.git/static/css/main.40e7e851.css",
+    "main.js": "/ea-soufian/Finalbosu.git/static/js/main.0de398ca.js",
+    "static/js/488.abe53aa2.chunk.js": "/ea-soufian/Finalbosu.git/static/js/488.abe53aa2.chunk.js",
+    "static/media/cook.png": "/ea-soufian/Finalbosu.git/static/media/cook.96e3de78c0ef46ec76bd.png",
+    "static/media/Fudkaito.png": "/ea-soufian/Finalbosu.git/static/media/Fudkaito.e63cd968c5e65b820e24.png",
+    "static/media/Backgroendie.jpg": "/ea-soufian/Finalbosu.git/static/media/Backgroendie.3bad9be14f4dfb6e9055.jpg",
+    "static/media/x.jpg": "/ea-soufian/Finalbosu.git/static/media/x.4265b02dda9fc47cd758.jpg",
+    "static/media/kaito.jpg": "/ea-soufian/Finalbosu.git/static/media/kaito.9956a0599ced9dfc5920.jpg",
+    "static/media/mustayaki.jpg": "/ea-soufian/Finalbosu.git/static/media/mustayaki.809bebce05c3774ae71f.jpg",
+    "static/media/JeffMustaman.jpg": "/ea-soufian/Finalbosu.git/static/media/JeffMustaman.bf32ed41f8d3a8471af1.jpg",
+    "static/media/Kevinfinalbosu.jpg": "/ea-soufian/Finalbosu.git/static/media/Kevinfinalbosu.608397e8beabae514918.jpg",
+    "static/media/Barracuda1709.jpg": "/ea-soufian/Finalbosu.git/static/media/Barracuda1709.7d38f4529f1f8454f736.jpg",
+    "static/media/finalbosuposter1.jpg": "/ea-soufian/Finalbosu.git/static/media/finalbosuposter1.78d98dec2d53833ce7f6.jpg",
+    "static/media/finalbosuposter2.jpg": "/ea-soufian/Finalbosu.git/static/media/finalbosuposter2.644d29ff89d9077b0c17.jpg",
+    "static/media/FinalBosuChar.png": "/ea-soufian/Finalbosu.git/static/media/FinalBosuChar.4d6d60d398a9694f6a8d.png",
+    "index.html": "/ea-soufian/Finalbosu.git/index.html",
+    "main.40e7e851.css.map": "/ea-soufian/Finalbosu.git/static/css/main.40e7e851.css.map",
+    "main.0de398ca.js.map": "/ea-soufian/Finalbosu.git/static/js/main.0de398ca.js.map",
+    "488.abe53aa2.chunk.js.map": "/ea-soufian/Finalbosu.git/static/js/488.abe53aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e7e851.css",
+    "static/js/main.0de398ca.js"
+  ]
+}
